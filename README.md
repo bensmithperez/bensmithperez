@@ -13,4 +13,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [resets en CSS](https://www.youtube.com/watch?v=_QmOjXbt_CU)
+- [modelo de caja](https://www.youtube.com/watch?v=vjqCdghbVYo)
+- [inspect para jugar](https://www.youtube.com/watch?v=X_g47LkaiEk)
+- [Un par de retoques y terminamos!](https://www.youtube.com/watch?v=7cvcI05qOIA)
+- [Documentación de mozilla en VS Code](https://www.youtube.com/watch?v=A50TjDO1bYg)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
