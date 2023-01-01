@@ -1,0 +1,16 @@
+name: Videos Recientes de Youtube
+on:
+  schedule:
+    # Se actualiza una vez al día 
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  actualizar-readme-con-videos-nuevos:
+    name: Actualizar este README con videos nuevos de Youtube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTMEgf6VREfyWOuRfu0xWlg"
