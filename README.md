@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [elegir colores en VS Code para CSS](https://www.youtube.com/watch?v=W6bcGNuLWaE)
+- [Duplicar lineas de código en VS Code](https://www.youtube.com/watch?v=N1V2Ic2ktPI)
 - [Hacemos un link &lpar;enlace&rpar; usando HTML](https://www.youtube.com/watch?v=1EgFY9iOdcE)
 - [como crear comentarios en CSS](https://www.youtube.com/watch?v=xDjY7DR8u4s)
 - [esta página les da el código para un montón de sombras!](https://www.youtube.com/watch?v=ntC7A1rT0No)
-- [bordes redondeados usando CSS](https://www.youtube.com/watch?v=TzkW9o9OK44)
-- [resets en CSS](https://www.youtube.com/watch?v=_QmOjXbt_CU)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
