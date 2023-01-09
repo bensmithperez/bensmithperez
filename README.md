@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [diseños responsive con media tags](https://www.youtube.com/watch?v=bdB6dwzthlI)
+- [Flex vs Grid - ¿Cuál es mejor? 🤔](https://www.youtube.com/watch?v=Coc6Y8nL7AE)
 - [elegir colores en VS Code para CSS](https://www.youtube.com/watch?v=W6bcGNuLWaE)
 - [Duplicar lineas de código en VS Code](https://www.youtube.com/watch?v=N1V2Ic2ktPI)
 - [Hacemos un link &lpar;enlace&rpar; usando HTML](https://www.youtube.com/watch?v=1EgFY9iOdcE)
-- [como crear comentarios en CSS](https://www.youtube.com/watch?v=xDjY7DR8u4s)
-- [esta página les da el código para un montón de sombras!](https://www.youtube.com/watch?v=ntC7A1rT0No)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
