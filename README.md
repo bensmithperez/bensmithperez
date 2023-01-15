@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Cómo funcionan los fonts? &lpar;usamos Google Fonts&rpar;](https://www.youtube.com/watch?v=gLPDBpMEmU8)
 - [¡Curso de diseño web gratis!](https://www.youtube.com/watch?v=gnbfUuRNF7I)
 - [posicion absoluta en CSS](https://www.youtube.com/watch?v=zbfKaIrb7dc)
 - [ejemplo de diseños responsive usando media queries](https://www.youtube.com/watch?v=c4QhZ-TdhJ8)
 - [diseños responsive con media tags](https://www.youtube.com/watch?v=bdB6dwzthlI)
-- [Flex vs Grid - ¿Cuál es mejor? 🤔](https://www.youtube.com/watch?v=Coc6Y8nL7AE)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
