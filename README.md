@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Aprende a crear un layout de una columna con solo HTML y CSS](https://www.youtube.com/watch?v=qDYLOUOJ7cw)
+- [Google Fonts!](https://www.youtube.com/watch?v=8JZ_YCypAN8)
 - [Cómo funcionan los fonts? &lpar;usamos Google Fonts&rpar;](https://www.youtube.com/watch?v=gLPDBpMEmU8)
 - [¡Curso de diseño web gratis!](https://www.youtube.com/watch?v=gnbfUuRNF7I)
 - [posicion absoluta en CSS](https://www.youtube.com/watch?v=zbfKaIrb7dc)
-- [ejemplo de diseños responsive usando media queries](https://www.youtube.com/watch?v=c4QhZ-TdhJ8)
-- [diseños responsive con media tags](https://www.youtube.com/watch?v=bdB6dwzthlI)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
