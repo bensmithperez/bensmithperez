@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Aprendamos a buscar! no a memorizar lineas de código!](https://www.youtube.com/watch?v=Ks0AQb_y7OQ)
 - [Agregamos un FAV Icon](https://www.youtube.com/watch?v=kZKNg-Ijxeg)
-- [Aprende a crear un layout de una columna con solo HTML y CSS](https://www.youtube.com/watch?v=qDYLOUOJ7cw)
+- [HTML y CSS - Layout de una columna](https://www.youtube.com/watch?v=qDYLOUOJ7cw)
 - [Google Fonts!](https://www.youtube.com/watch?v=8JZ_YCypAN8)
 - [Cómo funcionan los fonts? &lpar;usamos Google Fonts&rpar;](https://www.youtube.com/watch?v=gLPDBpMEmU8)
-- [¡Curso de diseño web gratis!](https://www.youtube.com/watch?v=gnbfUuRNF7I)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
