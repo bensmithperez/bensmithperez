@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Así puedes hacer selecciones múltiples en VS Code.](https://www.youtube.com/watch?v=ZK33KYMntOc)
 - [Cómo abrir un link en otra pestaña.](https://www.youtube.com/watch?v=iesBQy7QBoM)
 - [Aprendamos a buscar! no a memorizar lineas de código!](https://www.youtube.com/watch?v=Ks0AQb_y7OQ)
 - [Agregamos un FAV Icon](https://www.youtube.com/watch?v=kZKNg-Ijxeg)
 - [HTML y CSS - Layout de una columna](https://www.youtube.com/watch?v=qDYLOUOJ7cw)
-- [Google Fonts!](https://www.youtube.com/watch?v=8JZ_YCypAN8)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
