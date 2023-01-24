@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Hacer un commit a GitHub sin usar una terminal, todo en la web!](https://www.youtube.com/watch?v=5faAqLWdwJE)
 - [Esto es Github.](https://www.youtube.com/watch?v=Ln8O-oVLoqg)
 - [Así puedes hacer selecciones múltiples en VS Code.](https://www.youtube.com/watch?v=ZK33KYMntOc)
 - [Cómo abrir un link en otra pestaña.](https://www.youtube.com/watch?v=iesBQy7QBoM)
 - [Aprendamos a buscar! no a memorizar lineas de código!](https://www.youtube.com/watch?v=Ks0AQb_y7OQ)
-- [Agregamos un FAV Icon](https://www.youtube.com/watch?v=kZKNg-Ijxeg)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
