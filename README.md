@@ -11,9 +11,9 @@ Curso de diseño web desde cero](https://www.youtube.com/playlist?list=PLXb5K7gz
 
 ## Videos recientes
 <!-- VIDEOS-RECIENTES-YOUTUBE:START -->
+- [Pantallas simetricas con html y css](https://www.youtube.com/watch?v=PLs9KUhvMcw)
 - [Layouts con HTML y CSS - Pantalla Dividida / Pantalla Simétrica](https://www.youtube.com/watch?v=d4R7KOuV7_U)
 - [Hacemos un layout de una columna con HTML y CSS](https://www.youtube.com/watch?v=jqOSGVlPlpo)
 - [Hacer un commit a GitHub sin usar una terminal, todo en la web!](https://www.youtube.com/watch?v=5faAqLWdwJE)
 - [Esto es Github.](https://www.youtube.com/watch?v=Ln8O-oVLoqg)
-- [Así puedes hacer selecciones múltiples en VS Code.](https://www.youtube.com/watch?v=ZK33KYMntOc)
 <!-- VIDEOS-RECIENTES-YOUTUBE:END --> 
